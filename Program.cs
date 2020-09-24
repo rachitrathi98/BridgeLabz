@@ -7,8 +7,7 @@ namespace HelloWorld
         {
 
 
-            int num = 5;
-            int num1 = 6;
+         
             Console.WriteLine("HelloWorld");
             
         }
